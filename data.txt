@@ -1,0 +1,20 @@
+# Producenci szczepionek
+0 | BioTech 2.0 | 900
+1 | Eko Polska 2020 | 1300
+2 | Post-Covid Sp. z o.o. | 1100
+
+# Apteki
+0 | CentMedEko Centrala | 450
+1 | CentMedEko 24h | 690
+2 | CentMedEko Nowogrodzka | 1200
+
+# Połączenia producentów i aptek
+0 | 0 | 800 | 70.5
+0 | 1 | 600 | 70
+0 | 2 | 350 | 90.99
+1 | 0 | 900 | 100
+1 | 1 | 600 | 80
+1 | 2 | 450 | 70
+2 | 0 | 900 | 80
+2 | 1 | 900 | 90
+2 | 2 | 300 | 100
